@@ -1,9 +1,10 @@
 #include <stdio.h>
-
 /**
- *	main -entry point 
- *	description:A c prog 
- *	return : always 0 (success)
+ * main -entry point
+ *
+ * Description: A C program that prints with put function
+ *
+ * Return: Alawys 0 (Success)
  */
 
 int main(void)
