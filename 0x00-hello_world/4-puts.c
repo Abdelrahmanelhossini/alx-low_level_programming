@@ -2,7 +2,10 @@
 
 /**
  * main -entry point 
- * description:  A C PROGRAM that prints */
+ * description:  A C PROGRAM that prints 
+ * return : always 0 (success)
+ */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
