@@ -1,5 +1,7 @@
-#ifndef UNTITLED35_MAIN_H
-#define UNTITLED35_MAIN_H
+#ifndef UNTITLED35_M_H
+#define UNTITLED35_M_H
+
+#endif //UNTITLED35_M_H
 
 int _putchar(char c);
 void _puts_recursion(char *s);
