@@ -16,10 +16,10 @@ int prime_num(int n , int x){
 
     else
         return (prime_num(n,x-1));
-};
+}
 int is_prime_number(int n){
     if (n <2 )
         return (0);
 
     return (prime_num(n,n-1));
-};
+}

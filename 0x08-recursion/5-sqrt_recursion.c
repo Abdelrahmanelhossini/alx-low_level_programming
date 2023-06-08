@@ -17,7 +17,7 @@ int sqt_rec(int n,int v){
     }
     else
         return -1;
-};
+}
 int _sqrt_recursion(int n)
 {
     return sqt_rec(n,1);
